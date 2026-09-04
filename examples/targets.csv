@@ -1,0 +1,4 @@
+target,scan_type,ports,label
+https://example.com,WEB_OK,,documentation
+https://www.iana.org,FREE_HOST,,documentation
+localhost,RESOLVED_NO_WEB,22;80;443,local-test
